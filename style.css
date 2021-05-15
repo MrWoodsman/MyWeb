@@ -102,14 +102,14 @@ ul.topnav li.left {
   }
 
 .btn2 {
-    width: 250px;
+    width: 200px;
     text-decoration: none;
     color: white;
     text-align: center;
     background-color: #53c4b1d3;
     padding: 10px 15px;
     border-radius: 30px;
-    margin-left: calc(50% - 140px);
+    margin-left: calc(50% - 110px);
     transition: 0.5s;
 }
 
