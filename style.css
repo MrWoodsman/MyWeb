@@ -54,7 +54,7 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover:not(.active) {
-    background-color: rgba(128, 128, 128, 0.322);
+    /*background-color: rgba(128, 128, 128, 0.322);*/
 }
 
 ul.topnav li a.active {
