@@ -157,4 +157,12 @@ p.mar {
     p.mar {
         margin-left: 0px;
     }
+
+    ul.topnav li a {
+        padding: 7px 8px;
+    }
+
+    .main{
+    margin: 0px 25px 0px 25px;
+    }
 }
