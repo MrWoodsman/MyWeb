@@ -148,3 +148,9 @@ p.mar {
 .space {
     height: 30px;
 }
+
+@media only screen and (max-width: 40em) {
+    .article-view {
+        column-count: 1;
+    }
+}
