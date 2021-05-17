@@ -1,3 +1,4 @@
+
 body,
 html {
     margin: 0px;
@@ -164,5 +165,9 @@ p.mar {
 
     .main{
     margin: 0px 25px 0px 25px;
+    }
+
+    ul.topnav li a.active {
+        display: none;
     }
 }
