@@ -153,4 +153,8 @@ p.mar {
     .article-view {
         column-count: 1;
     }
+
+    p.mar {
+        margin-left: 0px;
+    }
 }
